@@ -1,0 +1,97 @@
+[ {
+  "name" : "/p/tommy-hilfiger/shirt-corp-split-4502494",
+  "brand" : "TOMMY HILFIGER",
+  "color" : [ "#00008b" ],
+  "price" : "39,90 EUR",
+  "articleID" : "4502494"
+}, {
+  "name" : "/p/jack-jones/hose-noos-jjimarco-jjbowie-sa-navy-blazer-noos-4088963",
+  "brand" : "JACK & JONES",
+  "color" : [ "#000080", "#000000", "#808000", "#FCF5E8" ],
+  "price" : "39,90 EUR",
+  "articleID" : "4088963"
+}, {
+  "name" : "/p/tommy-hilfiger-underwear/boxershorts-2074333",
+  "brand" : "Tommy Hilfiger Underwear",
+  "color" : [ "", "#000080", "#00008b", "#000000", "#b7b7b7", "" ],
+  "price" : "ab 39,99 EUR",
+  "articleID" : "2074333"
+}, {
+  "name" : "/p/urban-classics/hose-4027171",
+  "brand" : "Urban Classics",
+  "color" : [ "#6C6D6A", "#F8F0E2", "#808000", "#000000" ],
+  "price" : "ab 49,90 EUR",
+  "articleID" : "4027171"
+}, {
+  "name" : "/p/camp-david/sweatjacke-4508673",
+  "brand" : "CAMP DAVID",
+  "color" : [ "", "#000080", "#F74848", "#add8e6", "#00008b" ],
+  "price" : "",
+  "articleID" : "4508673"
+}, {
+  "name" : "/p/camp-david/jeans-4395877",
+  "brand" : "CAMP DAVID",
+  "color" : [ "#6495ed" ],
+  "price" : "99,95 EUR",
+  "articleID" : "4395877"
+}, {
+  "name" : "/p/camp-david/hoodie-4372738",
+  "brand" : "CAMP DAVID",
+  "color" : [ "", "#191970", "#807D84", "#add8e6", "#000080" ],
+  "price" : "",
+  "articleID" : "4372738"
+}, {
+  "name" : "/p/adidas-originals/sweatshirt-4131749",
+  "brand" : "ADIDAS ORIGINALS",
+  "color" : [ "", "#000000", "#E1E1DF" ],
+  "price" : "59,95 EUR",
+  "articleID" : "4131749"
+}, {
+  "name" : "/p/bruno-banani/anzug-4-teilig-3791105",
+  "brand" : "BRUNO BANANI",
+  "color" : [ "", "#13255A" ],
+  "price" : "",
+  "articleID" : "3791105"
+}, {
+  "name" : "/p/camp-david/sweatshirt-4360816",
+  "brand" : "CAMP DAVID",
+  "color" : [ "", "#06129B", "#b7b7b7", "#ffffff", "#add8e6" ],
+  "price" : "",
+  "articleID" : "4360816"
+}, {
+  "name" : "/p/produkt/pullover-4073319",
+  "brand" : "Produkt",
+  "color" : [ "#000000", "#D3AB85" ],
+  "price" : "32,95 EUR",
+  "articleID" : "4073319"
+}, {
+  "name" : "/p/bruno-banani/anzug-4305525",
+  "brand" : "BRUNO BANANI",
+  "color" : [ "", "#000000" ],
+  "price" : "",
+  "articleID" : "4305525"
+}, {
+  "name" : "/p/nike-sportswear/t-shirt-4138036",
+  "brand" : "Nike Sportswear",
+  "color" : [ "#000000" ],
+  "price" : "19,90 EUR",
+  "articleID" : "4138036"
+}, {
+  "name" : "/p/adidas-originals/shirt-lock-up-tee-4299563",
+  "brand" : "ADIDAS ORIGINALS",
+  "color" : [ "#000000", "#000080", "#d8bfd8" ],
+  "price" : "29,99 EUR",
+  "articleID" : "4299563"
+}, {
+  "name" : "/p/only-sons/jeans-loom-blue-jog-pk-8472-noos-3774568",
+  "brand" : "Only & Sons",
+  "color" : [ "#6495ed" ],
+  "price" : "39,90 EUR",
+  "articleID" : "3774568"
+}, {
+  "name" : "/p/only-sons/jeans-loom-4444861",
+  "brand" : "Only & Sons",
+  "color" : [ "#6495ed" ],
+  "price" : "39,90 EUR",
+  "articleID" : "4444861"
+} ]
